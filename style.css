@@ -1,0 +1,107 @@
+.dev h3{
+text-align: center;
+color: rgb(2, 2, 22);
+text-decoration: none;
+margin-top: 60px;
+box-sizing: border-box;
+font-family: century;
+}
+.pablo {
+width: 600px;
+height: 500px;
+background-color: rgb(220, 112, 130);
+position: absolute;
+margin-left: 450px;
+margin-top:150px ;
+border-radius: 5px;
+top: 40px; ;
+}
+
+body{
+    background-image: url(back/b00.jpeg);
+    background-position: center;
+    background-repeat: no repeat;
+    
+
+
+}
+
+.title h1{
+color: color-mix(in rgba(76, 5, 70, 0.793), color rgb(255, 98, 0), color rgba(255, 255, 255, 0.766));
+color: blueviolet;
+    text-align: center;
+    font-size: 60px;
+    font-family: algerian;
+    
+}
+.pablo h3{
+    color: rgb(230, 230, 230);
+    text-align: center;
+    font-size: 50px;
+    font-family: algerian;
+    
+}
+.pablo B1{
+    color: wheat;
+    margin-left: 100px;
+    margin-top: 20PX;
+
+}
+.pablo B2{
+    color: wheat;
+    margin-left: 100px;
+    margin-top: 210PX;
+
+}
+.pablo input[type=button]{
+    margin-left: 100px;
+     padding-top: 10px;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-bottom: 10px;
+     border-radius: 8px;
+     border-color: rgb(99, 8, 164);
+     background-color: rgb(255, 174, 0);
+     margin-top: 30px;
+ 
+ }
+.pablo input[type=text]{
+   margin-left: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border-radius: 8px;
+    border-color: rgb(99, 8, 164);
+    margin-top: 30px;
+
+}
+.pablo input[type=password]{
+    margin-left: 100px;
+     padding-top: 10px;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-bottom: 10px;
+     border-radius: 8px;
+     border-color: rgb(99, 8, 164);
+     margin-top: 30px;
+ 
+ }
+.pablo input[type=text]{
+    margin-left: 100px;
+     padding-top: 10px;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-bottom: 10px;
+     border-radius: 8px;
+     border-color: rgb(99, 8, 164);
+     margin-top: 30px;
+/*.dev {
+width: 150px;
+height: 150px;
+background-color: rgb(8, 164, 154);
+position: absolute;
+margin-left: 680px;
+margin-top:180px ;
+border-radius: 100px;
+}*/
